@@ -11,7 +11,6 @@ export default function Footer() {
   return (
     <>
       <footer className="bg-black text-white text-sm py-10 px-6 md:px-20">
-        {/* Top section */}
         <div className="grid grid-cols-2 md:grid-cols-5 gap-8 border-b border-gray-800 pb-10">
           <div className="space-y-2 col-span-1">
             <h4 className="font-semibold">FIND A STORE</h4>
